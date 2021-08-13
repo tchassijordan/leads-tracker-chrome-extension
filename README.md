@@ -1,6 +1,8 @@
 # Leads tracker chrome extension
 Here I realized a chrome extension web app called Leads tracker with html, css and javascript. It permets users while surfing on the browser to save links they consider important and keep track of important tabs. 
 
+The <a href="manifest.json ">manifest.json</a> file is the file that gives the chrome browser information about the chrome extension, it's a must have file.
+
 The chrome extension app makes use of the browser's localStorage to persist data, so even if a user closes his browser the links wouldn't be lost. 
 
 Building this app I took a further step in using javascript to interract with the DOM, adding/deleting elements in the DOM, managing DOM local storage, using objects to group my data.  
